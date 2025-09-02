@@ -1,0 +1,195 @@
+{
+	"frames": {
+		"cow_run_01.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 319,
+				"h": 310
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 319,
+				"h": 310
+			},
+			"sourceSize": {
+				"w": 319,
+				"h": 310
+			}
+		},
+		"cow_run_02.png": {
+			"frame": {
+				"x": 322,
+				"y": 1,
+				"w": 319,
+				"h": 310
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 319,
+				"h": 310
+			},
+			"sourceSize": {
+				"w": 319,
+				"h": 310
+			}
+		},
+		"cow_run_03.png": {
+			"frame": {
+				"x": 1,
+				"y": 313,
+				"w": 319,
+				"h": 310
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 319,
+				"h": 310
+			},
+			"sourceSize": {
+				"w": 319,
+				"h": 310
+			}
+		},
+		"cow_run_04..png": {
+			"frame": {
+				"x": 322,
+				"y": 313,
+				"w": 319,
+				"h": 310
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 319,
+				"h": 310
+			},
+			"sourceSize": {
+				"w": 319,
+				"h": 310
+			}
+		},
+		"cow_run_05..png": {
+			"frame": {
+				"x": 1,
+				"y": 625,
+				"w": 319,
+				"h": 310
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 319,
+				"h": 310
+			},
+			"sourceSize": {
+				"w": 319,
+				"h": 310
+			}
+		},
+		"cow_run_06..png": {
+			"frame": {
+				"x": 322,
+				"y": 625,
+				"w": 319,
+				"h": 310
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 319,
+				"h": 310
+			},
+			"sourceSize": {
+				"w": 319,
+				"h": 310
+			}
+		},
+		"cow_run_07..png": {
+			"frame": {
+				"x": 643,
+				"y": 1,
+				"w": 319,
+				"h": 310
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 319,
+				"h": 310
+			},
+			"sourceSize": {
+				"w": 319,
+				"h": 310
+			}
+		},
+		"cow_run_08..png": {
+			"frame": {
+				"x": 643,
+				"y": 313,
+				"w": 319,
+				"h": 310
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 319,
+				"h": 310
+			},
+			"sourceSize": {
+				"w": 319,
+				"h": 310
+			}
+		},
+		"cow_run_09..png": {
+			"frame": {
+				"x": 643,
+				"y": 625,
+				"w": 319,
+				"h": 310
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 319,
+				"h": 310
+			},
+			"sourceSize": {
+				"w": 319,
+				"h": 310
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 963,
+			"h": 936
+		},
+		"scale": "1"
+	}
+}
